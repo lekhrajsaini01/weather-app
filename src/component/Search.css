@@ -1,0 +1,15 @@
+.Search-div{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+.Search{
+    width: 93%;
+    height: 50px;
+    border-radius: 6px;
+    border-color: #98cffc;
+    box-shadow: 2px 2px 5px 5px #e4e4e4;
+    
+
+}

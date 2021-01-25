@@ -1,0 +1,15 @@
+@media only screen and (max-width : 600px){
+.Home{
+    width: 100%;
+    height: auto;
+    background:#ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+}
+@font-face {
+    font-family: 'Sailec';
+    font-style: normal;
+    font-weight: 500;
+    src: url('http://srlinfotech.com/assets/fonts/Sailec-Bold.woff2') format('woff2'),
+        url('http://srlinfotech.com/assets/fonts/Sailec-Bold.woff') format('woff');
+}
