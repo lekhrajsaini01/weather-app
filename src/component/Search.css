@@ -1,3 +1,5 @@
+@media only screen and (max-width : 600px){
+
 .Search-div{
     display: flex;
     margin-top: 10px;
@@ -10,6 +12,57 @@
     border-radius: 10px;
     border-color: #98cffc;
     box-shadow: 1px 1px 3px 3px #e4e4e4;
+    margin-left: -15px;
     
+
+
+}
+.Pin{
+    width: 24px;
+    height: 24px;
+    margin-top: 10px;
+    margin-left: -340px;
+}
+.Sicon{
+    width: 20px;
+    height: 20px;
+    margin-left: 280px;
+    margin-top: 14px;
+
+
+
+}
+}
+@media only screen and (min-width : 600px){
+    
+.Search-div{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+.Search{
+    width: 93%;
+    height: 50px;
+    border-radius: 10px;
+    border-color: #98cffc;
+    box-shadow: 1px 1px 3px 3px #e4e4e4;
+    margin-left: -4%;
+    
+}
+  
+    .Pin{
+     width: 24px;
+    height: 24px;
+    margin-top: 10px;
+    margin-left: -92%;
+    }
+    .Sicon{
+        width: 20px;
+        height: 20px;
+        margin-left: 88%;
+        margin-top: 14px;
+    
+    }
 
 }

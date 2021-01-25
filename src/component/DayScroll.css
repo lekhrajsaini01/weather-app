@@ -4,7 +4,7 @@
     width: 100%;
     height: auto;
     font-family: 'Roboto', sans-serif;
-
+    margin-bottom: 20px;
 
 }
 /* Scroller ROw */
@@ -38,4 +38,9 @@
 /* paragraph for climate status */
 .P3{
     font-size: 8px;
+}
+/* Sun image */
+.Sun{
+    width: 30px;
+    height: 30px;
 }
