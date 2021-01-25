@@ -1,0 +1,19 @@
+.P-H{
+    display: flex;
+    justify-content: center;
+}
+.Ph-Box{
+    background-color: #f2f9fc;
+    padding: 0px 70px 0px 10px;
+    float: left;
+    margin-left: 10px;
+
+}
+.P4{
+    font-weight: bolder;
+    
+}
+.P5{
+    font-weight: bold;
+    margin-top: -15px;
+}
